@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import question1
+import question2
 
 # Loading in the csv into a pandas DataFrame
 # CSV NEEDS TO BE PRESENT IN THE PROJECT DIRECTORY
@@ -11,4 +12,5 @@ df = pd.read_csv("2020-foli.csv")
 print('Done!')
 
 # Question results in order
-question1.execute(df)
+#question1.execute(df)
+question2.execute(df)

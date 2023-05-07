@@ -12,8 +12,8 @@ What were the top 5 most/least popular Föli lines in 2020?
 
 #### Question 2 (Miika)
 
-Did the time of year affect the usage of Föli. If so how?
+Can the effects of the start of the COVID-19 pandemic be seen in the data? If so how?
 
 #### Question 3 (Miika)
 
-Can the effects of the start of the COVID-19 pandemic be seen in the data? If so how?
+What were the top 5 most/least popular dates? Are these considered special in some way? (Holidays, Events)
