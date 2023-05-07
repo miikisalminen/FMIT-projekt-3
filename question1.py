@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Question 1: What are the top 5 most/least popular Föli lines in 2020
+
 def execute(df):
     
     # A list containing every line present in the data

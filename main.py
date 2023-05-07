@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 import question1
 
 # Loading in the csv into a pandas DataFrame
+# CSV NEEDS TO BE PRESENT IN THE PROJECT DIRECTORY
+# Available at: https://data.turku.fi/6akgghfs3zbdnamay5kwat/2020-foli.csv
+
 print('Loading in 2020-foli.csv')
 df = pd.read_csv("2020-foli.csv")
 print('Done!')
