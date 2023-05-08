@@ -25,3 +25,7 @@ Which weekdays have the most rides?
 #### Question 5 (Miika)
 
 On average, how many passengers got on a bus from a stop? What is the standard deviation?
+
+#### Question 6 (Ben)
+
+What is the total number of journeys that happened during the year?
