@@ -12,8 +12,8 @@ df = pd.read_csv("2020-foli.csv")
 print('Done!')
 
 # Question results in order
-#question1.execute(df)
-#question2.execute(df)
-#question3.execute(df)
-#question4.execute(df)
+question1.execute(df)
+question2.execute(df)
+question3.execute(df)
+question4.execute(df)
 question5.execute(df)

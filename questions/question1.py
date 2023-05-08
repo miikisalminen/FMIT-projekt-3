@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Question 1: What are the top 5 most/least popular Föli lines in 2020
-
 def execute(df):
     
+    print("Question 1: What are the top 5 most/least popular Föli lines in 2020?")
+
     # A list containing every line present in the data
     line_list = df['line'].unique()
 
@@ -18,7 +18,7 @@ def execute(df):
     print('Done!')
 
     # Plotting the result with matplotlib
-    print('Plotting the top 5 most popular lines of 2020.\nPlease close the graph to continue...')
+    print('Plotting the results.\nPlease close the graph to continue...')
     figure, axis = plt.subplots(nrows=1, ncols=2)
 
     line_count_df.nlargest(5, ['Count']).plot(x='Line', y='Count', kind='bar', ax=axis[0])
