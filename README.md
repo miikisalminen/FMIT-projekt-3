@@ -24,4 +24,4 @@ Which weekdays have the most rides?
 
 #### Question 5 (Miika)
 
-What is the percentage of rides for each stop compared to the total for all stops?
+On average, how many passengers got on a bus from a stop? What is the standard deviation?
