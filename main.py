@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-from questions import question1, question2, question3, question4, question5
+from questions import question1, question2, question3, question4, question5, question6
 
 # Loading in the csv into a pandas DataFrame
 # CSV NEEDS TO BE PRESENT IN THE PROJECT DIRECTORY
@@ -17,3 +16,4 @@ question2.execute(df)
 question3.execute(df)
 question4.execute(df)
 question5.execute(df)
+question6.execute(df)
