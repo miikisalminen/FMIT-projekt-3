@@ -17,3 +17,11 @@ Can the effects of the start of the COVID-19 pandemic be seen in the data? If so
 #### Question 3 (Miika)
 
 What were the top 5 most/least popular dates? Are these considered special in some way? (Holidays, Events)
+
+#### Question 4 (Miika)
+
+Which weekdays have the most rides?
+
+#### Question 5 (Miika)
+
+What is the percentage of rides for each stop compared to the total for all stops?
